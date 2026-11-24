@@ -1,0 +1,13 @@
+rtl/full_adder.v
+rtl/cla4_cla2_rca.v
+rtl/mult4x4_dadda.v
+rtl/pe_mode_ctrl.v
+rtl/pe_seg_reg.v
+rtl/pe_pp_gen.v
+rtl/pe_sign_rows.v
+rtl/pe_csa36.v
+rtl/pe_csa_tree.v
+rtl/pe_pg_cell.v
+rtl/pe_bk_prefix.v
+rtl/pe_add36.v
+rtl/processing_element.v
